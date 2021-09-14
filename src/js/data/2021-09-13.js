@@ -40,7 +40,7 @@ dataSet[dataSetVersion].options = [
     name: "Remove Hidlibrand Instances",
     key: "hildibrand",
     tooltip: "Check this to remove instances unlocked by the Hildibrand quest line.",
-    checked: faslse
+    checked: false
   },
   {
     name: "Remove Relic Trials",
