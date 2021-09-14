@@ -53,7 +53,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Sastasha",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -61,7 +61,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Tam-Tara Deepcroft",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -69,7 +69,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Copperbell Mines",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -77,7 +77,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Halatali",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -85,7 +85,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Thousand Maws of Toto-Rak",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -93,7 +93,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Haukke Manor",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -101,7 +101,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Brayflox's Longstop",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -109,7 +109,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Sunken Temple of Qarn",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -117,7 +117,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cutter's Cry",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -125,7 +125,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Stone Vigil",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -133,7 +133,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dzemael Darkhold",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -141,7 +141,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Aurum Vale",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["leveling"]
@@ -149,7 +149,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Castrum Meridianum",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["msq"]
@@ -157,7 +157,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Praetorium",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["msq"]
@@ -165,7 +165,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Wanderer's Palace",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -173,7 +173,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Amdapor Keep",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -181,7 +181,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pharos Sirius",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -189,7 +189,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Copperbell Mines (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -197,7 +197,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Haukke Manor (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -205,7 +205,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Lost City of Amdapor",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -213,7 +213,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Halatali (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Brayflox's Longstop (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -229,7 +229,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hullbreaker Isle",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -237,7 +237,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Stone Vigil (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -245,7 +245,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Tam-Tara Deepcroft (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -253,7 +253,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Snowcloak",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -261,7 +261,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sastasha (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -269,7 +269,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Sunken Temple of Qarn (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -277,7 +277,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Keeper of the Lake",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -285,7 +285,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Wanderer's Palace (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -293,7 +293,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Amdapor Keep (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["expert"]
@@ -301,7 +301,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Dusk Vigil",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["leveling"]
@@ -309,7 +309,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sohm Al",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["leveling"]
@@ -317,7 +317,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Aery",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["leveling"]
@@ -325,7 +325,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Vault",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["leveling"]
@@ -333,7 +333,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Great Gubal Library",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["leveling"]
@@ -341,7 +341,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Aetherochemical Research Facility",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["leveling"]
@@ -349,7 +349,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Neverreap",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -357,7 +357,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Fractal Continuum",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -365,7 +365,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Saint Mocianne's Arboretum",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -373,7 +373,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pharos Sirius (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -381,7 +381,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Antitower",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -389,7 +389,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Lost City of Amdapor (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -397,7 +397,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sohr Khai",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -405,7 +405,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hullbreaker Isle (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -413,7 +413,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Xelphatol",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -421,7 +421,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Great Gubal Library (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -429,7 +429,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baelsar's Wall",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -437,7 +437,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sohm Al (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["expert"]
@@ -445,7 +445,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Sirensong Sea",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["leveling"]
@@ -453,7 +453,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shisui of the Violet Tides",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["leveling"]
@@ -461,7 +461,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bardam's Mettle",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["leveling"]
@@ -469,7 +469,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Doma Castle",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["leveling"]
@@ -477,7 +477,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Castrum Abania",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["leveling"]
@@ -485,7 +485,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ala Mhigo",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -493,7 +493,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kugane Castle",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -501,7 +501,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Temple of the Fist",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -509,7 +509,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Drowned City of Skalla",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -517,7 +517,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hells' Lid",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -525,7 +525,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Fractal Continuum (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -533,7 +533,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Swallow's Compass",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -541,7 +541,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Saint Mocianne's Arboretum (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -549,7 +549,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Burn",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -557,7 +557,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Ghimlyt Dark",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["expert"]
@@ -565,7 +565,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Holminster Switch",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["leveling"]
@@ -573,7 +573,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dohn Mheg",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["leveling"]
@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Qitana Ravel",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["leveling"]
@@ -589,7 +589,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Malikah's Well",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["leveling"]
@@ -597,7 +597,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mt. Gulg",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["leveling"]
@@ -605,7 +605,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Amaurot",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["expert"]
@@ -613,7 +613,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Twinning",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["expert"]
@@ -621,7 +621,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Akadaemia Anyder",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["expert"]
@@ -629,7 +629,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Grand Cosmos",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["expert"]
@@ -637,7 +637,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Anamnesis Anyder",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["expert"]
@@ -645,7 +645,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Heroe's Gauntlet",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["expert"]
@@ -653,7 +653,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Matoya's Relict",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["expert"]
@@ -661,7 +661,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Paglth'an",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["expert"]
@@ -669,7 +669,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Bowl of Embers",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -677,7 +677,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Navel",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -685,7 +685,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Howling Eye",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -693,7 +693,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cape Westwind",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -701,7 +701,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Chrysalis",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -709,7 +709,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Steps of Faith",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -717,7 +717,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "A Relic Reborn: The Chimera",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"],
@@ -726,7 +726,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "A Relic Reborn: The Hydra",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"],
@@ -735,7 +735,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Battle on the Big Bridge",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"],
@@ -744,7 +744,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Dragon's Neck",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"],
@@ -753,7 +753,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Battle in the Big Keep",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"],
@@ -762,7 +762,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Bowl of Embers (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -770,7 +770,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Howling Eye (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -778,7 +778,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Navel (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -786,7 +786,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Thornmarch (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -794,7 +794,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Whorleater (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -802,7 +802,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Striking Tree (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -810,7 +810,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Akh Afah Amphitheatre (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -818,7 +818,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Urth's Fount",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -826,7 +826,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Minstrel's Ballad: Ultima's Bane",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -834,7 +834,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Howling Eye (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -842,7 +842,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Navel (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -850,7 +850,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Bowl of Embers (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -858,7 +858,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Thornmarch (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -866,7 +866,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Whroleater (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -874,7 +874,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Striking Tree (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -882,7 +882,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Akh Afah Amphitheatre (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["trial"]
@@ -890,7 +890,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Thok ast Thok (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["trial"]
@@ -898,7 +898,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Limitless Blue (Hard)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["trial"]
@@ -906,7 +906,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Singularity Reactor",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["trial"]
@@ -914,7 +914,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Final Steps of Faith",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["trial"]
@@ -922,7 +922,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Containment Bay S1T7",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["trial"]
@@ -930,7 +930,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Containment Bay P1T6",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["trial"]
@@ -938,7 +938,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Containment Bay Z1T9",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["trial"]
@@ -946,7 +946,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Limitless Blue (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["extreme"]
@@ -954,7 +954,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Thok ast Thok (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["extreme"]
@@ -962,7 +962,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Minstrel's Ballad: Thordan's Reign",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["extreme"]
@@ -970,7 +970,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Minstrel's Ballad: Nidhogg's Rage",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["extreme"]
@@ -978,7 +978,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Containment Bay S1T7 (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["extreme"]
@@ -986,7 +986,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Containment Bay P1T6 (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["extreme"]
@@ -994,7 +994,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Containment Bay Z1T9 (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["extreme"]
@@ -1002,7 +1002,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Pool of Tribute",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["trial"]
@@ -1010,7 +1010,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Emanation",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["trial"]
@@ -1018,7 +1018,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Castrum Fluminis",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["trial"]
@@ -1026,7 +1026,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kugane Ohashi",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["trial"],
@@ -1035,7 +1035,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Great Hunt",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["trial"]
@@ -1043,7 +1043,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Jade Stoa",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["trial"]
@@ -1051,7 +1051,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hells' Kier",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["trial"]
@@ -1059,7 +1059,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Wreath of Snakes",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["trial"]
@@ -1067,7 +1067,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Emanation (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["extreme"]
@@ -1075,7 +1075,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Pool of Tribute (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["extreme"]
@@ -1083,7 +1083,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Minstrel's Ballad: Shinryu's Domain",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["extreme"]
@@ -1091,7 +1091,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Jade Stoa (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["extreme"]
@@ -1099,7 +1099,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Minstrel's Ballad: Tsukuyomi's Pain",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["extreme"]
@@ -1107,7 +1107,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Great Hunt (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["extreme"]
@@ -1115,7 +1115,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hells' Kier (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["extreme"]
@@ -1123,7 +1123,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Wreath of Snakes (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["extreme"]
@@ -1131,7 +1131,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Dancing Plague",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["trial"]
@@ -1139,7 +1139,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Crown of the Immaculate",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["trial"]
@@ -1147,7 +1147,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Dying Gasp",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["trial"]
@@ -1155,7 +1155,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cinder Drift",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["trial"]
@@ -1163,7 +1163,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Seat of Sacrifice",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["trial"]
@@ -1171,7 +1171,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Castrum Marinum",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["trial"]
@@ -1179,7 +1179,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Cloud Deck",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["trial"]
@@ -1187,7 +1187,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Dancing Plague (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["extreme"]
@@ -1195,7 +1195,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Crown of the Immaculate (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["extreme"]
@@ -1203,7 +1203,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Minstrel's Ballad: Hades's Elegy",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["extreme"]
@@ -1211,7 +1211,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cinder Drift (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["extreme"]
@@ -1219,7 +1219,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Memoria Misera (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["extreme"]
@@ -1227,7 +1227,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Memoria Misera (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["extreme"]
@@ -1235,7 +1235,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Castrum Marinum (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["extreme"]
@@ -1243,7 +1243,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Cloud Deck (Extreme)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["extreme"]
@@ -1251,7 +1251,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Akh Afah Amphitheatre (Unreal)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["unreal"]
@@ -1259,7 +1259,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Navel (Unreal)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["unreal"]
@@ -1267,7 +1267,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Whorleater (Unreal)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["unreal"]
@@ -1275,7 +1275,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Binding Coil of Bahamut - Turn 1",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1283,7 +1283,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Binding Coil of Bahamut - Turn 2",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1291,7 +1291,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Binding Coil of Bahamut - Turn 3",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1299,7 +1299,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Binding Coil of Bahamut - Turn 4",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1307,7 +1307,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Binding Coil of Bahamut - Turn 5",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1315,7 +1315,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Second Coil of Bahamut - Turn 1",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1323,7 +1323,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Second Coil of Bahamut - Turn 2",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1331,7 +1331,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Second Coil of Bahamut - Turn 3",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1339,7 +1339,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Second Coil of Bahamut - Turn 4",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1347,7 +1347,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Final Coil of Bahamut - Turn 1",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1355,7 +1355,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Final Coil of Bahamut - Turn 2",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1363,7 +1363,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Final Coil of Bahamut - Turn 3",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1371,7 +1371,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Final Coil of Bahamut - Turn 4",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["raid"]
@@ -1379,7 +1379,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Second Coil of Bahamut - Turn 1 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["savage"]
@@ -1387,7 +1387,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Second Coil of Bahamut - Turn 2 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["savage"]
@@ -1395,7 +1395,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Second Coil of Bahamut - Turn 3 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["savage"]
@@ -1403,7 +1403,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Second Coil of Bahamut - Turn 4 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["savage"]
@@ -1411,7 +1411,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Fist of the Father",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1419,7 +1419,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Cuff of the Father",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1427,7 +1427,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Arm of the Father",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1435,7 +1435,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Burden of the Father",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1443,7 +1443,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Fist of the Son",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1451,7 +1451,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Cuff of the Son",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1459,7 +1459,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Arm of the Son",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1467,7 +1467,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Burden of the Son",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1475,7 +1475,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Eyes of the Creator",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1483,7 +1483,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Breath of the Creator",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1491,7 +1491,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Heart of the Creator",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1499,7 +1499,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Soul of the Creator",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["raid"]
@@ -1507,7 +1507,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Fist of the Father (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1515,7 +1515,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Cuff of the Father (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1523,7 +1523,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Arm of the Father (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1531,7 +1531,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Burden of the Father (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1539,7 +1539,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Fist of the Son (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1547,7 +1547,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Cuff of the Son (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1555,7 +1555,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Arm of the Son (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1563,7 +1563,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Burden of the Son (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1571,7 +1571,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Eyes of the Creator (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1579,7 +1579,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Breath of the Creator (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1587,7 +1587,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Heart of the Creator (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1595,7 +1595,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alexander - The Soul of the Creator (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["savage"]
@@ -1603,7 +1603,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Deltascape v1.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1611,7 +1611,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Deltascape v2.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1619,7 +1619,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Deltascape v3.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1627,7 +1627,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Deltascape v4.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1635,7 +1635,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Sigmascape v1.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1643,7 +1643,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Sigmascape v2.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1651,7 +1651,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Sigmascape v3.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1659,7 +1659,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Sigmascape v4.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1667,7 +1667,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Alphascape v1.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1675,7 +1675,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Alphascape v2.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1683,7 +1683,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Alphascape v3.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1691,7 +1691,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Alphascape v4.0",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["raid"]
@@ -1699,7 +1699,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Deltascape v1.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1707,7 +1707,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Deltascape v2.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1715,7 +1715,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Deltascape v3.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1723,7 +1723,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Deltascape v4.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1731,7 +1731,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Sigmascape v1.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1739,7 +1739,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Sigmascape v2.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1747,7 +1747,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Sigmascape v3.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1755,7 +1755,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Sigmascape v4.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1763,7 +1763,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Alphascape v1.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1771,7 +1771,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Alphascape v2.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1779,7 +1779,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Alphascape v3.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1787,7 +1787,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omega: Alphascape v4.0 (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["savage"]
@@ -1795,7 +1795,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Gate: Resurrection",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1803,7 +1803,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Gate: Descent",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1811,7 +1811,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Gate: Inundation",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1819,7 +1819,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Gate: Sepulture",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1827,7 +1827,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Verse: Fulmination",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1835,7 +1835,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Verse: Furor",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1843,7 +1843,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Verse: Iconoclasm",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1851,7 +1851,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Verse: Refulgence",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1859,7 +1859,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Promise: Umbra",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1867,7 +1867,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Promise: Litany",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1875,7 +1875,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Promise: Anamorphosis",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1883,7 +1883,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Promise: Eternity",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["raid"]
@@ -1891,7 +1891,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Gate: Resurrection (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1899,7 +1899,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Gate: Descent (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1907,7 +1907,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Gate: Inundation (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1915,7 +1915,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Gate: Sepulture (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1923,7 +1923,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Verse: Fulmination (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1931,7 +1931,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Verse: Furor (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1939,7 +1939,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Verse: Iconoclasm (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1947,7 +1947,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Verse: Refulgence (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1955,7 +1955,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Promise: Umbra (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1963,7 +1963,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Promise: Litany (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1971,7 +1971,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Promise: Anamorphosis (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1979,7 +1979,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eden's Promise: Eternity (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["savage"]
@@ -1987,7 +1987,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Unending Coil of Bahamut (Ultimate)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["ultimate"]
@@ -1995,7 +1995,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Weapon's Refrain (Ultimate)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["ultimate"]
@@ -2003,7 +2003,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Epic of Alexander (Ultimate)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["ultimate"]
@@ -2011,7 +2011,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Labyrinth of the Ancients",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["araid"]
@@ -2019,7 +2019,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Syrcus Tower",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["araid"]
@@ -2027,7 +2027,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "World of Darkness",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["araid"]
@@ -2035,7 +2035,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Void Ark",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["araid"]
@@ -2043,7 +2043,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Weeping City of Mhach",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["araid"]
@@ -2051,7 +2051,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dun Scaith",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["araid"]
@@ -2059,7 +2059,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Royal City of Rabanastre",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["araid"]
@@ -2067,7 +2067,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Ridorana Lighthouse",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["araid"]
@@ -2075,7 +2075,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Orbonne Monastery",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["araid"]
@@ -2083,7 +2083,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Copied Factory",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["araid"]
@@ -2091,7 +2091,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Puppet's Bunker",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["araid"]
@@ -2099,7 +2099,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Tower at Paradigm's Breach",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["araid"]
@@ -2107,7 +2107,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Basic Training: Enemy Parties",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2115,7 +2115,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Under the Armor",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2123,7 +2123,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Basic Training: Enemy Strongholds",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2131,7 +2131,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hero on the Halfshell",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2139,7 +2139,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pulling Poison Posies",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2147,7 +2147,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Stinging Back",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2155,7 +2155,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "All's Well that Ends in the Well",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2163,7 +2163,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Flicking Sticks and Taking Names",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2171,7 +2171,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "More than a Feeler",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2179,7 +2179,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Annoy the Void",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2187,7 +2187,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shadow and Claw",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2195,7 +2195,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Long Live the Queen",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2203,7 +2203,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ward Up",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2211,7 +2211,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Solemn Trinity",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["hest"]
@@ -2219,7 +2219,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Field of Glory (Shatter)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["pvp"]
@@ -2227,7 +2227,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Borderland Ruins (Secure)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["pvp"]
@@ -2235,7 +2235,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Seal Rock (Sieze)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["pvp"]
@@ -2243,7 +2243,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Onsal Hakair (Danshig Naadam)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["pvp"]
@@ -2251,7 +2251,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rival Wings (Astragalos)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["pvp"]
@@ -2259,7 +2259,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rival Wings (Hidden Gorge)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["pvp"]
@@ -2267,7 +2267,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Feast (Crystal Tower Training Grounds)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["arr"],
       instancetype: ["pvp"]
@@ -2275,7 +2275,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Diadem",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["mission"]
@@ -2283,7 +2283,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Forbidden Land, Eureka Anemos",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["mission"]
@@ -2291,7 +2291,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Forbidden Land, Eureka Pagos",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["mission"]
@@ -2299,7 +2299,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Forbidden Land, Eureka Pyros",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["mission"]
@@ -2307,7 +2307,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Forbidden Land, Eureka Hydatos",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["mission"]
@@ -2315,7 +2315,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Bozjan Southern Front",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["mission"]
@@ -2323,7 +2323,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Delubrum Reginae",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["mission"]
@@ -2331,7 +2331,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Delubrum Reginae (Savage)",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["mission"]
@@ -2339,7 +2339,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Zadnor",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["ShB"],
       instancetype: ["mission"]
@@ -2347,7 +2347,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Palace of the Dead",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["hw"],
       instancetype: ["deep"]
@@ -2355,7 +2355,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Heaven-on-High",
-    img: "",
+    img: "eJqzxly.png",
     opts: {
       expac: ["StB"],
       instancetype: ["deep"]
